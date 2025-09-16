@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.title{
+    font-size: xx-large;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    height: 10vh;
+    color: black;
+}
+
+.username_box{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center; 
+    
+}
+.password_box{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center; 
+    flex: wrap; 
+}
+
+.login_text{
+    text-align: center;
+    justify-content: center;
+}
+
+.form{
+    border: solid black;
+    text-align: center;
+    border-radius: 4vh;
+    padding: 3vh;
+}
+

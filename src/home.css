@@ -1,0 +1,62 @@
+body{
+    background-color: grey;
+}
+
+.firsthead{
+    margin-top: 10vh;
+    font-size: xx-large;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    height: 15px;
+    color: black;
+}
+
+.login{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;  
+}
+.loginbox{
+    height: 3vmin;
+    width: 10vmin;
+}
+.signin{
+    height:5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;  
+}
+.signinbox{
+    height: 3vmin;
+    width: 10vmin;
+}
+.hide{
+    display: none;
+}
+
+.username_box{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center; 
+    flex: wrap; 
+}
+.password_box{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center; 
+    flex: wrap; 
+}
+
+.login_text{
+    text-align: center;
+}
+
+
